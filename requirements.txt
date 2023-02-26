@@ -8,6 +8,16 @@ tf-slim==1.1.0
 ml-metadata==0.26.0
 keras-tuner==1.0.3
 mock==4.0.3
+<<<<<<< HEAD
 commit1
 commit2
 commit3
+||||||| d90bc39
+=======
+
+
+
+commit4
+commit5
+commit6
+>>>>>>> branch2
